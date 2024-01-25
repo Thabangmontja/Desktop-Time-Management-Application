@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="POEModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="MODULES">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Email" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Code" Type="varchar" MaxLength="8" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="Credit" Type="int" Nullable="false" />
+    <Property Name="ClassPerHour" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="Weeks" Type="int" Nullable="false" />
+    <Property Name="Used_hours" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="Self_study" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="Remaining_Hours" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'POE.dbo.STUDENT_INFOR' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="STUDENT_INFOR">
+    <Key>
+      <PropertyRef Name="First_name" />
+      <PropertyRef Name="Last_name" />
+      <PropertyRef Name="Email" />
+      <PropertyRef Name="Password" />
+    </Key>
+    <Property Name="First_name" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="Last_name" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="Email" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Password" Type="varchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="POEModelStoreContainer">
+    <EntitySet Name="MODULES" EntityType="Self.MODULES" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="STUDENT_INFOR" EntityType="Self.STUDENT_INFOR" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [STUDENT_INFOR].[First_name] AS [First_name], 
+    [STUDENT_INFOR].[Last_name] AS [Last_name], 
+    [STUDENT_INFOR].[Email] AS [Email], 
+    [STUDENT_INFOR].[Password] AS [Password]
+    FROM [dbo].[STUDENT_INFOR] AS [STUDENT_INFOR]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

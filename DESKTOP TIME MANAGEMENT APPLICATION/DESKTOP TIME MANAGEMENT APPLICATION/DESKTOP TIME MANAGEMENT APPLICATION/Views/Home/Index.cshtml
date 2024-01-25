@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/_LayoutPage1.cshtml";
+}
+
+<div class="head">
+    <div class="head-text">
+        <h1>Logical Login Form</h1>
+    </div>
+    <div class="login">
+        <div class="login-form">
+            <form action="Index" method="post">
+                <input type="email" class="Login" name="Email" placeholder="Email" required="" />
+                <input type="password" class="password" name="Password" placeholder="Password" required="" />
+
+                <input type="submit" value="Sign in" />
+            </form>
+        </div>
+        <ul>
+            <li><a href="@Url.Action("Register", "Home")">Register</a></li>
+            <li><a href="#">Forgot Password?</a></li>
+            <div class="clear">
+                
+            </div>
+        </ul>
+    </div>
+</div>
+<div class="footer">
+    <p>© 2015 Logical Login Form. All Rights Reserved | Design by  <a href="http://w3layouts.com/" target="_blank">W3layouts</a> </p>
+</div>
+

@@ -1,0 +1,34 @@
+﻿
+@{
+    ViewBag.Title = "Modules";
+    Layout = "~/Views/_LayoutPage1.cshtml";
+}
+
+<div class="head">
+    <div class="head-text">
+        <h1>Insert Modules</h1>
+    </div>
+    <div class="login">
+        <div class="login-form">
+            <form action="Modules" method="Post">
+                <input type="text" class="Login" name="Code" placeholder="Module Code" required="" />
+                <input type="text" class="Login" name="Name" placeholder="Module Name" required="" />
+                <input type="text" class="Login" name="Email" placeholder="Email" required="" />
+                <input type="text" class="password" name="Credit" placeholder="Number Of Hours" required="" />
+                <input type="text" class="password" name="ClassPerHour" placeholder="Clas Per Hour" required="" />
+                <input type="text" class="password" name="Weeks" placeholder="Number of Weeks" required="" />
+                <input type="datetime-local" class="password" name="" placeholder="Start Date" required="" />
+                <input type="text" class="password" name="Used_hours" placeholder="Used Hours" required="" />
+            </form>
+        </div>
+
+        <ul>
+            <li><a href="@Url.Action("Display", "Home")">DISPLAY</a></li>
+            <div class="clear"></div>
+        </ul>
+    </div>
+</div>
+<div class="footer">
+    <p>© 2015 Logical Login Form. All Rights Reserved | Design by  <a href="http://w3layouts.com/" target="_blank">W3layouts</a> </p>
+</div>
+

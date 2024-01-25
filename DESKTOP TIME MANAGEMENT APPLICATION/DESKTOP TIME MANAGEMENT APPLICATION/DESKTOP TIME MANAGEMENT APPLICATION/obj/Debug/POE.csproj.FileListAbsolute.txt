@@ -1,0 +1,166 @@
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\POE.dll.config
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\POE.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\POE.pdb
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\csc.exe
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\csc.exe.config
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\csc.rsp
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\csi.exe
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\csi.exe.config
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\csi.rsp
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\System.AppContext.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\System.Console.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\System.IO.Compression.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\System.Net.Http.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\System.Net.Sockets.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\System.ValueTuple.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\System.Xml.XPath.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\vbc.exe
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\vbc.exe.config
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\vbc.rsp
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\VBCSCompiler.exe
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\Antlr3.Runtime.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\Newtonsoft.Json.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\System.Web.Helpers.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\System.Web.Mvc.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\System.Web.Optimization.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\System.Web.Razor.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\System.Web.WebPages.Deployment.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\System.Web.WebPages.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\System.Web.WebPages.Razor.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\WebGrease.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\System.Web.Helpers.xml
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\System.Web.Mvc.xml
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\System.Web.Optimization.xml
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\System.Web.Razor.xml
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\System.Web.WebPages.xml
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\System.Web.WebPages.Deployment.xml
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\System.Web.WebPages.Razor.xml
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\Newtonsoft.Json.xml
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\Antlr3.Runtime.pdb
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\RCazurelabs\source\repos\POE\POE\obj\Debug\POE.csproj.AssemblyReference.cache
+C:\Users\RCazurelabs\source\repos\POE\POE\obj\Debug\POE.csproj.CoreCompileInputs.cache
+C:\Users\RCazurelabs\source\repos\POE\POE\obj\Debug\POE.csproj.CopyComplete
+C:\Users\RCazurelabs\source\repos\POE\POE\obj\Debug\POE.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\obj\Debug\POE.pdb
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\EntityFramework.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\EntityFramework.SqlServer.dll
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\EntityFramework.xml
+C:\Users\RCazurelabs\source\repos\POE\POE\bin\EntityFramework.SqlServer.xml
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\POE.dll.config
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\POE.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\POE.pdb
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\csc.exe
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\csc.exe.config
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\csc.rsp
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\csi.exe
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\csi.exe.config
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\csi.rsp
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\System.AppContext.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\System.Console.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\System.IO.Compression.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\System.Net.Http.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\System.ValueTuple.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\vbc.exe
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\vbc.exe.config
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\vbc.rsp
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\VBCSCompiler.exe
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\Antlr3.Runtime.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\EntityFramework.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\EntityFramework.SqlServer.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\Newtonsoft.Json.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\System.Web.Helpers.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\System.Web.Mvc.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\System.Web.Optimization.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\System.Web.Razor.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\System.Web.WebPages.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\System.Web.WebPages.Razor.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\WebGrease.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\EntityFramework.xml
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\EntityFramework.SqlServer.xml
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\System.Web.Helpers.xml
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\System.Web.Mvc.xml
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\System.Web.Optimization.xml
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\System.Web.Razor.xml
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\System.Web.WebPages.xml
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\System.Web.WebPages.Razor.xml
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\Newtonsoft.Json.xml
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\Antlr3.Runtime.pdb
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\obj\Debug\POE.csproj.AssemblyReference.cache
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\obj\Debug\POE.csproj.CoreCompileInputs.cache
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\obj\Debug\POE.csproj.CopyComplete
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\obj\Debug\POE.dll
+C:\Users\Thabang\Downloads\Final POE\POE_2\POE\POE\obj\Debug\POE.pdb

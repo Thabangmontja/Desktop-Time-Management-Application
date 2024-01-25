@@ -1,0 +1,25 @@
+﻿@model List<POE.Models.Modules>
+@{
+
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    @{
+        var data = new Chart(width: 500, height: 500, theme: ChartTheme.Blue)
+            .AddTitle("Graph")
+            .AddSeries("Default", chartType: "pie",
+            xValue: Model, xField: "Name",
+            yValues: Model, yFields: "Used_hours")
+            .Write();
+    }
+</body>
+</html>
+
+
